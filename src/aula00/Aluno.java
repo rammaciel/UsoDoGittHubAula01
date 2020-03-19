@@ -20,5 +20,7 @@ public class Aluno{
 		this.nome = nome;
 	}
    
+	//Teste Git pull Aux Branch
+	
 }
    
